@@ -7,3 +7,6 @@ $b = 5;
 if ($a < $b) {
     echo 'a меньше b';
 }
+
+
+echo 'add hotfix';
